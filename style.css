@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim', cursive;
+} 
+.container{
+    width: 800px;
+    height: 400px;
+    background-color: #0E2F2F;
+    margin-left: 300px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+p{
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+    text-align: center;
+    color: rgb(247, 173, 82);
+    font-size: x-large;
+    padding-bottom: 20px;
+    letter-spacing: 2px;
+} 
+
+input{
+    background-color: gray;
+    
+}
+ from{
+    margin-left: 280px;
+    font-size: large;
+    
+    
+} 
+#b2{
+    margin-left: 50px;
+    padding-bottom: 15px;
+    margin-top: 40px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: rgb(247, 173, 82);;
+    text-align: center;
+    font-size: x-large;
+}
+#b1{
+    margin-left: 250px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    width: 150px;
+    border-radius: 10px;
+    background-color:  rgb(247, 173, 82);;
+    text-align: center;
+    font-size: x-large;
+
+}
+#b2:hover{
+    background-color: gray;
+
+}
+#b1:hover{
+    background-color: gray;
+}
+#p1{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+ .fa-linkedin{
+    margin-left: 300px;
+} 
+.fa-twitter{
+    margin-left: 40px;
+}
+ .fa-instagram{
+    margin-left: 20px;
+    padding: 30px;
+
+ }
+ .fa-facebook{
+    margin-right: 30px;
+ }
+
+
+
+
