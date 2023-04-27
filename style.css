@@ -6,8 +6,8 @@
     font-family: 'Itim', cursive;
 } 
 .container{
-    width: 800px;
-    height: 400px;
+    width: 700px;
+    height: 320px;
     background-color: #0E2F2F;
     margin-left: 300px;
     margin-top: 80px;
@@ -27,7 +27,7 @@ input{
     
 }
  from{
-    margin-left: 280px;
+    margin-left: 250px;
     font-size: large;
     
     
@@ -36,7 +36,7 @@ input{
     margin-left: 50px;
     padding-bottom: 15px;
     margin-top: 40px;
-    width: 80px;
+    width: 90px;
     border-radius: 10px;
     background-color: rgb(247, 173, 82);;
     text-align: center;
@@ -64,11 +64,11 @@ input{
     text-align: center;
     font-size: x-large;
     color: white;
-    margin-top: 40px;
+    margin-top: 30px;
     margin-bottom: 20px;
 }
  .fa-linkedin{
-    margin-left: 300px;
+    margin-left: 250px;
 } 
 .fa-twitter{
     margin-left: 40px;
